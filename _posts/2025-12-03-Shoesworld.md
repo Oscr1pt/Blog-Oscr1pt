@@ -28,4 +28,4 @@ Este proyecto me permitió fortalecer habilidades en **arquitectura web**, **con
 
 Abajo puedes ver un poco más de lo que trata el proyecto 👇
 
-👉 [Ver proyecto](https://shoesworld.page.gd/)
+👉 [Ver proyecto](https://shoesworld-eta.vercel.app/)
